@@ -1,0 +1,21 @@
+Algoritmo "Condicionais 2"
+// Disciplina   : [Linguagem e Lógica de Programação]
+// Professor   : Marcos Monteiro
+// Autor(a)    : Wladimir Kochmansky
+// Data atual  : 27/10/2022
+Var
+   idade: inteiro;
+Inicio
+   escreva("digite sua idade:")
+   leia(idade)
+ //  escreval(idade, " anos")
+   se(idade < 18) entao
+      escreval("Você ainda é menor de idade")
+   senao
+      se(idade >= 18) e (idade <= 60) entao
+         escreval("Você é um adulto")
+      senao
+         escreval("Idoso")
+      fimse
+   fimse
+Fimalgoritmo

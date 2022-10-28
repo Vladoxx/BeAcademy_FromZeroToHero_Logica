@@ -7,5 +7,6 @@ Inicio
       repita
       escreval(j)
       j <- j - 1
-      ate j > 1
+      ate j < 1
+      escreval("Valor de J: ", j)
 Fimalgoritmo

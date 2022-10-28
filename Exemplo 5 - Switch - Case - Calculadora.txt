@@ -24,3 +24,6 @@ Inicio
       escreva("Resultado: ", resultado)
    fimse
 Fimalgoritmo
+
+      escreva("Digite o valor desejado para a operação")
+      leia(valorUsuario)

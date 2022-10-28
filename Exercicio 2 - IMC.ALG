@@ -1,4 +1,8 @@
 Algoritmo "CalcularIMC"
+// Disciplina   : [Linguagem e Lógica de Programação]
+// Professor   : Marcos Monteiro
+// Autor(a)    : Wladimir Kochmansky
+// Data atual  : 26/10/2022
 Var
 nome: caractere
 peso, altura, imc: REAL;

@@ -13,7 +13,7 @@
 * Se, Senão Se e Senão
 * Switch-Case
 * Estrutura de Repeticao Para (For)
-* 
-* 
-* 
-* 
+* Estrutura de Repeticao - Enquanto (while)
+* Estrutura de Repeticao - Enquanto Repita-ate (Do While)
+* Estruturas de Dados
+* Matriz

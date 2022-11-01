@@ -2,11 +2,12 @@ Algoritmo "Operação Bancária"
 // Disciplina   : [Linguagem e Lógica de Programação]
 // Professor   : Marcos Monteiro
 // Autor(a)    : Wladimir Kochmansky
-// Data atual  : 27/10/2022
+// Data atual  : 28/10/2022
 Var
    saldoInicial, valorUsuario, saldoAtual : real;
    operacao : caractere;
 Inicio
+   // Estrutura do algoritmo
    escreva("Qual é seu saldo? ")
    leia(saldoInicial)
    escreval()
@@ -15,13 +16,13 @@ Inicio
    escreval("--- Selecione 1 para fazer um Depósito.")
    escreval("--- Selecione 2 para fazer um Saque.")
    leia(operacao)
-   operacao <- (operacao)
    escreval()
    escreva("Ingresse o valor da operação: ")
    leia(valorUsuario)
    escreval()
-
    escreval(" - Seu saldo inicial foi de:", saldoInicial)
+
+   // Execução: Aplicação da Estructura de Dados
    escolha operacao
    caso "1"
       saldoAtual := saldoInicial + valorUsuario
@@ -33,7 +34,8 @@ Inicio
       saldoAtual := -1
    fimescolha
    se(saldoAtual = -1) entao
-      escreval(" - Operação inválida! Escolha D ou S")
+      escreval()
+      escreval(" *** Operação inválida! Escolha 1 ou 2 *** ")
    senao
       se(valorUsuario > saldoInicial) entao
          escreval()

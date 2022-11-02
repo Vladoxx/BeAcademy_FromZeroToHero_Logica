@@ -1,5 +1,5 @@
 Algoritmo "Login-Sistema - REPITA - ATE"
-// Disciplina   : [Linguagem e Lógica de Programação]
+// Disciplina   : [Linguagem e LÃ³gica de ProgramaÃ§Ã£o]
 // Professor   : Marcos Monteiro
 // Autor(a)    : Wladimir Kochmansky
 // Data atual  : 31/10/2022
@@ -7,28 +7,27 @@ Var
    nome, senha : caractere;
 Inicio
    repita
-      // Nome-Senha - Dados do Usuário
+      // Nome-Senha - Dados do UsuÃ¡rio
       escreval
       escreva("- Escreva seu nome: ")
       leia(nome)
       escreva("- Escreva sua senha: ")
       leia(senha)
 
-      // Forçar parada
+      // ForÃ§ar parada
       se ((nome = "-1") ou (senha = "-1")) entao
          escreval
-         escreva(" *** Programa finalizado a petição do usuário. *** ")
+         escreva(" *** Programa finalizado a petiÃ§Ã£o do usuÃ¡rio. *** ")
          interrompa
       fimse
 
-      // Caso o nome ou senha sejam inválidos
+      // Caso o nome ou senha sejam invÃ¡lidos
       se(nome <> "Wlad") e (senha <> "1234") entao
          escreval
-         escreval("- Nome ou Senha inválido!")
+         escreval("- Nome ou Senha invÃ¡lido!")
          escreval("- Digite Novamente.")
       fimse
 
-      // Validações
    ate (nome = "Wlad") e (senha = "1234")
 
    se ((nome = "-1") ou (senha = "-1")) entao

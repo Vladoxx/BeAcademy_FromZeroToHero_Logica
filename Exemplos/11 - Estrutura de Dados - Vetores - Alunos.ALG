@@ -1,7 +1,8 @@
 Algoritmo "Vetores1"
 Var
    alunos: vetor [1..3] de caractere;
-   i: inteiro //indice vetor
+   nome, preco: caractere;
+   i: inteiro; //indice vetor
 Inicio
    para i <- 1 ate 3 faca //laço de cadastro
       escreva("Digite o nome do ", i , "º aluno: " )

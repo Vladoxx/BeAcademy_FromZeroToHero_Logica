@@ -1,8 +1,6 @@
 # BeAcademy_FromZeroToHero_Logica
 ## Exercícios e Exemplos de Lógica de Programação
 
-### Em Construção ainda.
-
 ## Conteúdo:
 
 * Introdução - O Que Veremos No Curso

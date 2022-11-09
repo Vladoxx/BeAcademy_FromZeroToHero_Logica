@@ -2,7 +2,7 @@ Algoritmo "Soma de Inteiros - REPITA-ATE"
 // Disciplina   : [Linguagem e Lógica de Programação]
 // Professor   : Marcos Monteiro
 // Autor(a)    : Wladimir Kochmansky
-// Data atual  : 01/10/2022
+// Data atual  : 01/11/2022
 Var
    numero, soma : inteiro;
 Inicio

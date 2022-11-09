@@ -2,7 +2,7 @@ Algoritmo "Matriz - Cadastro-Soma"
 // Disciplina   : [Linguagem e Lógica de Programação]
 // Professor   : Marcos Monteiro
 // Autor(a)    : Wladimir Kochmansky
-// Data atual  : 08/10/2022
+// Data atual  : 08/11/2022
 Var
    // Matriz 4x4
    dP, dS: inteiro;

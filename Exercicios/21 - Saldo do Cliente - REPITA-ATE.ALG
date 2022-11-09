@@ -2,7 +2,7 @@ Algoritmo "Saldo do Cliente - REPITA - ATE"
 // Disciplina   : [Linguagem e Lógica de Programação]
 // Professor   : Marcos Monteiro
 // Autor(a)    : Wladimir Kochmansky
-// Data atual  : 03/10/2022
+// Data atual  : 03/11/2022
 Var
    saldoCliente, saque, saldoAtual : real;
 Inicio

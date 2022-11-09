@@ -2,7 +2,7 @@ Algoritmo "Notas de Alunos"
 // Disciplina   : [Linguagem e Lógica de Programação]
 // Professor   : Marcos Monteiro
 // Autor(a)    : Wladimir Kochmansky
-// Data atual  : 03/10/2022
+// Data atual  : 03/11/2022
 Var
    alunos: vetor[1..2] de caractere;
    nota1, nota2: vetor[1..2] de inteiro;

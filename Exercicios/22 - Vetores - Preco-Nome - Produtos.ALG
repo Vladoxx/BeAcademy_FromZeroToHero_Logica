@@ -2,7 +2,7 @@ Algoritmo "Vetores - Preco-Nome - Produtos"
 // Disciplina   : [Linguagem e Lógica de Programação]
 // Professor   : Marcos Monteiro
 // Autor(a)    : Wladimir Kochmansky
-// Data atual  : 03/10/2022
+// Data atual  : 03/11/2022
 Var
    produtos, preco: vetor[1..10] de caractere;
    i: inteiro //Indice Vetor

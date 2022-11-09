@@ -2,7 +2,7 @@ Algoritmo "Vetores - Cadastro-Clientes"
 // Disciplina   : [Linguagem e Lógica de Programação]
 // Professor   : Marcos Monteiro
 // Autor(a)    : Wladimir Kochmansky
-// Data atual  : 03/10/2022
+// Data atual  : 03/11/2022
 Var
    nome, cpf, rg, endereco, telefone: vetor[1..5] de caractere;
    i: inteiro;

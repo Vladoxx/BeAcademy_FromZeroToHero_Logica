@@ -1,10 +1,10 @@
 Algoritmo "Matriz - Cadastro-Soma"
-// Disciplina   : [Linguagem e Lógica de Programação]
+// Disciplina   : [Linguagem e LÃ³gica de ProgramaÃ§Ã£o]
 // Professor   : Marcos Monteiro
 // Autor(a)    : Wladimir Kochmansky
 // Data atual  : 08/10/2022
 Var
-   // Matriz 3x3
+   // Matriz 4x4
    dP, dS: inteiro;
    matriz: vetor[0..3 , 0..3] de inteiro;
    l, c: inteiro;
